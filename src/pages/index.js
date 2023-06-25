@@ -10,7 +10,6 @@ import Testimonials from "@/Components/Testimonials";
 import AOS from "aos";
 import { useEffect } from "react";
 import HomeTopBanner from "@/Components/HomeTopBanner";
-// import AOS from 'aos';
 
 const inter = Inter({ subsets: ["latin"] });
 

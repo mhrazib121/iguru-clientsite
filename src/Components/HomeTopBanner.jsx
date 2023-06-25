@@ -49,7 +49,6 @@ const HomeTopBanner = () => {
               </span>
             </li>
             <li className="my-2 flex gap-3">
-              {/* <Check width={24} height={24} fill={color.primary} /> */}
               <span>Donec sit amet lorem non mi fringilla finibus</span>
             </li>
           </ul>
@@ -57,7 +56,6 @@ const HomeTopBanner = () => {
           <hr />
           <div className="mt-12 ">
             <div className="flex gap-8 justify-start items-center">
-              {/* <Image className='w-24' src={person2} alt="" /> */}
               <div>
                 <p className="text-lg">+880-0123-456789</p>
                 <p className="text-color-primary">Do you have any question?</p>
